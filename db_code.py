@@ -4,7 +4,7 @@ import mysql.connector
 
 DB_HOST = "localhost"
 DB_USER = "root"
-DB_PASSWORD = "your_mysql_password"  # ← Change to your password
+DB_PASSWORD = "Git@9911" 
 DB_NAME = "studentdb"
 
 def get_connection():
@@ -149,3 +149,4 @@ def count_total_students():
     cursor.close()
     conn.close()
     return result
+
