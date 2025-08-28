@@ -130,8 +130,8 @@ Feel free to fork the repo and submit your improvements.
 
 ## 🔗 Author
 
-**Your Name**  
-[your.email@example.com](mailto:nitinrathour_24dsc14@dtu.ac.in)
+**Nitin Rathour**  
+[Email](mailto:nitinrathour_24dsc14@dtu.ac.in)
 
 ---
 
